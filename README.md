@@ -1,8 +1,11 @@
 # Automated_Report_System
 Automated Report System in Python that reads data from CSV/Excel, calculates metrics like profit, generates charts, creates a PDF report, and sends it automatically via email. Saves time, automates reporting, and showcases practical Python automation skills.
 
-output of the project
-[[https://github.com/Nisha8116/Automated_Report_System/blob/main/output.jpg]
+Output of the project  
+![Output](https://raw.githubusercontent.com/Nisha8116/Automated_Report_System/main/output.jpg)
 
-Report sent to the mail
-](https://github.com/Nisha8116/Automated_Report_System/blob/main/gmail.jpg)
+Report sent to the mail  
+![Mail Screenshot](https://raw.githubusercontent.com/Nisha8116/Automated_Report_System/main/gmail.jpg)
+
+Terminal Execution  
+![Terminal Screenshot](https://raw.githubusercontent.com/Nisha8116/Automated_Report_System/main/im.jpg)
