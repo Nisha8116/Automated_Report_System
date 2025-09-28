@@ -4,6 +4,7 @@ Automated Report System in Python that reads data from CSV/Excel, calculates met
 Output of the project  
 ![Output](https://raw.githubusercontent.com/Nisha8116/Automated_Report_System/main/output.jpg)
 
+Report sent to the mail  
+![Mail Screenshot](https://raw.githubusercontent.com/Nisha8116/Automated_Report_System/main/gmail.jpg)
 
-Terminal Execution  
-![Terminal Screenshot](https://raw.githubusercontent.com/Nisha8116/Automated_Report_System/main/im.jpg)
+
