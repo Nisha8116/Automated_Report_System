@@ -9,6 +9,7 @@ Output of the project
 Report sent to the mail  
 ![Mail Screenshot](https://raw.githubusercontent.com/Nisha8116/Automated_Report_System/main/gmail.jpg)
 
-![Terminal Screenshot](file:///C:/Users/priya/OneDrive/Documents/GitHub/Automated_Report_System/im.jpg)
+Terminal Screenshot
+![Terminal Screenshot](https://github.com/Nisha8116/Automated_Report_System/blob/main/im.jpg)
 
 >>>>>>> 67a35a0a8c703da36b48eac16b56e85ae09399a5
