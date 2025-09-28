@@ -12,4 +12,4 @@ Report sent to the mail
 Terminal Screenshot
 ![Terminal Screenshot](https://github.com/Nisha8116/Automated_Report_System/blob/main/im.jpg)
 
->>>>>>> 67a35a0a8c703da36b48eac16b56e85ae09399a5
+>>>>>>> 
